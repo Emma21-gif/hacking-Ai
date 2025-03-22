@@ -1,0 +1,13 @@
+streamlit
+scapy
+tensorflow
+numpy
+nmap
+requests
+sqlite3
+joblib
+pandas
+plotly
+paramiko
+shodan
+scikit-learn
